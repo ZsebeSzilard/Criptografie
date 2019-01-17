@@ -1,0 +1,58 @@
+﻿<Window x:Class="Knapsack.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Knapsack"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="570" Width="550">
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="89.427"/>
+            <ColumnDefinition Width="280.973"/>
+            <ColumnDefinition Width="auto"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Column="0" Grid.Row="0" FontSize="25" Margin="10,10,9.4,9.4"  FontWeight="Medium" Grid.ColumnSpan="2">
+           Text:
+        </TextBlock>
+        <TextBlock x:Name="label1" Grid.Column="3" Grid.Row="0" FontSize="20" Margin="0 10"  FontWeight="Medium" Grid.ColumnSpan="2">
+           
+        </TextBlock>
+        <TextBlock Grid.Column="0" Grid.Row="2" FontSize="25" Margin="10,9.8,9.4,9.6"  FontWeight="Medium" Grid.ColumnSpan="2" >
+           Crypted Text:
+        </TextBlock>
+        <TextBlock Grid.Column="0" Grid.Row="4" FontSize="25" Margin="10,9.8,9.4,9.6"  FontWeight="Medium" Grid.ColumnSpan="2" >
+           Decrypted Text:
+        </TextBlock>
+
+        <TextBox x:Name="textBox3" Grid.Column="0" Grid.Row="5" Width="350" Height="100" FontSize="20" FontWeight="Medium" Margin="10,10.6,10.4,10.2" TextWrapping="Wrap" IsReadOnly="True" Grid.ColumnSpan="2" ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Auto"/>
+
+        <TextBox x:Name="textBox1" Grid.Column="0" Grid.Row="1" Width="350" Height="100" FontSize="20" FontWeight="Medium" Margin="10,10.6,10.4,10.2" TextWrapping="Wrap" IsReadOnly="True" Grid.ColumnSpan="2" ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Auto"/>
+
+
+        <TextBox x:Name="textBox2" Grid.Column="0" Grid.Row="3" Width="350" Height="100" FontSize="20" FontWeight="Medium" Margin="10,10.6,10.4,10.2" TextWrapping="Wrap" IsReadOnly="True" Grid.ColumnSpan="2" ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Auto"/>
+
+        <Button x:Name="button1" Height="40" Width="120" Grid.Column="2" Grid.Row="1"  FontSize="15" Margin="10.6,40.6,10.2,40.2" FontWeight="Medium" Click="Browse">
+            Browse
+        </Button>
+        <Button x:Name="button2" Height="40" Width="120" Grid.Column="3" Grid.Row="2"  FontSize="15" Margin="10" FontWeight="Medium" Click="Button_Keys">
+            Generate Keys
+        </Button>
+        <Button x:Name="button3" Height="40" Width="120" Grid.Column="3" Grid.Row="3"  FontSize="15" Margin="10.6,40.6,10.2,40.2" FontWeight="Medium" Click="Button_Crypt">
+            Crypt
+        </Button>
+        <Button x:Name="button4" Height="40" Width="120" Grid.Column="3" Grid.Row="4"  FontSize="15" Margin="10" FontWeight="Medium" Click="Button_Decrypt">
+            Decrypt
+        </Button>
+        
+    </Grid>
+</Window>

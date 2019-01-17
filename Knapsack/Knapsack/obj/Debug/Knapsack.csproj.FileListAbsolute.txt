@@ -1,0 +1,15 @@
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Knapsack\Knapsack\obj\Debug\Knapsack.csprojResolveAssemblyReference.cache
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Knapsack\Knapsack\obj\Debug\MainWindow.g.cs
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Knapsack\Knapsack\obj\Debug\App.g.cs
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Knapsack\Knapsack\obj\Debug\Knapsack_MarkupCompile.cache
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Knapsack\Knapsack\obj\Debug\Knapsack_MarkupCompile.lref
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Knapsack\Knapsack\bin\Debug\Knapsack.exe.config
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Knapsack\Knapsack\bin\Debug\Knapsack.exe
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Knapsack\Knapsack\bin\Debug\Knapsack.pdb
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Knapsack\Knapsack\obj\Debug\MainWindow.baml
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Knapsack\Knapsack\obj\Debug\Knapsack.g.resources
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Knapsack\Knapsack\obj\Debug\Knapsack.Properties.Resources.resources
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Knapsack\Knapsack\obj\Debug\Knapsack.csproj.GenerateResource.cache
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Knapsack\Knapsack\obj\Debug\Knapsack.csproj.CoreCompileInputs.cache
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Knapsack\Knapsack\obj\Debug\Knapsack.exe
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Knapsack\Knapsack\obj\Debug\Knapsack.pdb
