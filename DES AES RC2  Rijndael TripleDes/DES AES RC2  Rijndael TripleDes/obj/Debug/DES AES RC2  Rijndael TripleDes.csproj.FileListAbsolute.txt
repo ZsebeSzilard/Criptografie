@@ -1,0 +1,15 @@
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\DES AES RC2  Rijndael TripleDes\DES AES RC2  Rijndael TripleDes\bin\Debug\DES AES RC2  Rijndael TripleDes.exe.config
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\DES AES RC2  Rijndael TripleDes\DES AES RC2  Rijndael TripleDes\bin\Debug\DES AES RC2  Rijndael TripleDes.exe
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\DES AES RC2  Rijndael TripleDes\DES AES RC2  Rijndael TripleDes\bin\Debug\DES AES RC2  Rijndael TripleDes.pdb
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\DES AES RC2  Rijndael TripleDes\DES AES RC2  Rijndael TripleDes\obj\Debug\DES AES RC2  Rijndael TripleDes.csprojResolveAssemblyReference.cache
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\DES AES RC2  Rijndael TripleDes\DES AES RC2  Rijndael TripleDes\obj\Debug\MainWindow.g.cs
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\DES AES RC2  Rijndael TripleDes\DES AES RC2  Rijndael TripleDes\obj\Debug\App.g.cs
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\DES AES RC2  Rijndael TripleDes\DES AES RC2  Rijndael TripleDes\obj\Debug\DES AES RC2  Rijndael TripleDes_MarkupCompile.cache
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\DES AES RC2  Rijndael TripleDes\DES AES RC2  Rijndael TripleDes\obj\Debug\DES AES RC2  Rijndael TripleDes_MarkupCompile.lref
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\DES AES RC2  Rijndael TripleDes\DES AES RC2  Rijndael TripleDes\obj\Debug\MainWindow.baml
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\DES AES RC2  Rijndael TripleDes\DES AES RC2  Rijndael TripleDes\obj\Debug\DES AES RC2  Rijndael TripleDes.g.resources
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\DES AES RC2  Rijndael TripleDes\DES AES RC2  Rijndael TripleDes\obj\Debug\DES_AES_RC2__Rijndael_TripleDes.Properties.Resources.resources
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\DES AES RC2  Rijndael TripleDes\DES AES RC2  Rijndael TripleDes\obj\Debug\DES AES RC2  Rijndael TripleDes.csproj.GenerateResource.cache
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\DES AES RC2  Rijndael TripleDes\DES AES RC2  Rijndael TripleDes\obj\Debug\DES AES RC2  Rijndael TripleDes.csproj.CoreCompileInputs.cache
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\DES AES RC2  Rijndael TripleDes\DES AES RC2  Rijndael TripleDes\obj\Debug\DES AES RC2  Rijndael TripleDes.exe
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\DES AES RC2  Rijndael TripleDes\DES AES RC2  Rijndael TripleDes\obj\Debug\DES AES RC2  Rijndael TripleDes.pdb
