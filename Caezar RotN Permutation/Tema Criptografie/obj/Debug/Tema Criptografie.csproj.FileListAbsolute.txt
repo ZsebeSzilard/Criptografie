@@ -1,0 +1,7 @@
+D:\ISKOLA\Training de sters in viitor\Tema Criptografie\Tema Criptografie\bin\Debug\Tema Criptografie.exe.config
+D:\ISKOLA\Training de sters in viitor\Tema Criptografie\Tema Criptografie\bin\Debug\Tema Criptografie.exe
+D:\ISKOLA\Training de sters in viitor\Tema Criptografie\Tema Criptografie\bin\Debug\Tema Criptografie.pdb
+D:\ISKOLA\Training de sters in viitor\Tema Criptografie\Tema Criptografie\obj\Debug\Tema Criptografie.csprojResolveAssemblyReference.cache
+D:\ISKOLA\Training de sters in viitor\Tema Criptografie\Tema Criptografie\obj\Debug\Tema Criptografie.csproj.CoreCompileInputs.cache
+D:\ISKOLA\Training de sters in viitor\Tema Criptografie\Tema Criptografie\obj\Debug\Tema Criptografie.exe
+D:\ISKOLA\Training de sters in viitor\Tema Criptografie\Tema Criptografie\obj\Debug\Tema Criptografie.pdb
