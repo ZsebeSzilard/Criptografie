@@ -1,0 +1,15 @@
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Hash\Hash\bin\Debug\Hash.exe.config
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Hash\Hash\bin\Debug\Hash.exe
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Hash\Hash\bin\Debug\Hash.pdb
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Hash\Hash\obj\Debug\Hash.csprojResolveAssemblyReference.cache
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Hash\Hash\obj\Debug\MainWindow.g.cs
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Hash\Hash\obj\Debug\App.g.cs
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Hash\Hash\obj\Debug\Hash_MarkupCompile.cache
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Hash\Hash\obj\Debug\Hash_MarkupCompile.lref
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Hash\Hash\obj\Debug\MainWindow.baml
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Hash\Hash\obj\Debug\Hash.g.resources
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Hash\Hash\obj\Debug\Hash.Properties.Resources.resources
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Hash\Hash\obj\Debug\Hash.csproj.GenerateResource.cache
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Hash\Hash\obj\Debug\Hash.csproj.CoreCompileInputs.cache
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Hash\Hash\obj\Debug\Hash.exe
+D:\ISKOLA\UNIVERSITATE\ANUL II\Semestrul I\Criptografie\DONE\COMPLETE\Hash\Hash\obj\Debug\Hash.pdb
